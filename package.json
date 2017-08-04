@@ -1,0 +1,17 @@
+{
+  "name": "ws-echo",
+  "version": "1.0.0",
+  "description": "app nodejs para ahcer echo de llamada http",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dalonso",
+  "license": "GNU",
+  "dependencies": {
+    "express": "^4.15.3",
+    "winston": "^2.3.1",
+    "xml-beautifier": "^0.3.0"
+  }
+}
